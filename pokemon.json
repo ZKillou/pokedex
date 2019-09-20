@@ -8,6 +8,7 @@
 				"jp": "フシギダネ",
 				"de": "Bisasam"
 			},
+			"img": "http://www.serebii.net/pokemongo/pokemon/001.png",
 			"type": [
 				"Plante",
 				"Poison"
@@ -76,6 +77,7 @@
 				"jp": "フシギソウ",
 				"de": "Bisaknosp"
 			},
+			"img": "http://www.serebii.net/pokemongo/pokemon/002.png",
 			"type": [
 				"Plante",
 				"Poison"
@@ -113,6 +115,7 @@
 						"fr": "Florizarre",
 						"en": "Venusaur"
 					},
+					"img": "http://www.serebii.net/pokemongo/pokemon/003.png",
 					"how": "Niveau 32",
 					"type": [
 						"Plante",
@@ -208,6 +211,7 @@
 				"jp": "ヒトカゲ",
 				"de": "Glumanda"
 			},
+			"img": "http://www.serebii.net/pokemongo/pokemon/004.png",
 			"type": [
 				"Feu"
 			],
