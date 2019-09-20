@@ -1,0 +1,268 @@
+{
+	"pokemon": [
+		{
+			"id": 1,
+			"nom": {
+				"fr": "Bulbizarre",
+				"en": "Bulbasaur",
+				"jp": "フシギダネ",
+				"de": "Bisasam"
+			},
+			"type": [
+				"Plante",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 45,
+				"attaque": 49,
+				"defense": 49,
+				"attaque_sp.": 65,
+				"defense_sp.": 65,
+				"vitesse": 45
+			},
+			"poids": "9,6 kg",
+			"taille": "0,7 m",
+			"famille": "Graine",
+			"talent": [
+				"Engrais",
+				"Chlorophylle"
+			],
+			"eclosion": 5120,
+			"exp_base": 64,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Vert"
+			"faiblesse": [
+				"Feu",
+				"Glace",
+				"Vol",
+				"Psy"
+			],
+			"evo_plus": [
+				{
+					"id": 2,
+					"nom": {
+						"fr": "Herbizarre",
+						"en": "Ivysaur"
+					},
+					"how": "Niveau 16"
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				},
+				{
+					"id": 3,
+					"nom": {
+						"fr": "Florizarre",
+						"en": "Venusaur"
+					},
+					"how": "Niveau 32",
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				}
+			],
+			"evo_moins": [
+				"Pas de sous évolution"
+			]
+		},
+		{
+			"id": 2,
+			"nom": {
+				"fr": "Herbizarre",
+				"en": "Ivysaur",
+				"jp": "フシギソウ",
+				"de": "Bisaknosp"
+			},
+			"type": [
+				"Plante",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 60,
+				"attaque": 62,
+				"defense": 63,
+				"attaque_sp.": 80,
+				"defense_sp.": 80,
+				"vitesse": 60
+			},
+			"poids": "13,0 kg",
+			"taille": "1,0 m",
+			"famille": "Graine",
+			"talent": [
+				"Engrais",
+				"Chlorophylle"
+			],
+			"eclosion": 5120,
+			"exp_base": 141,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Vert",
+			"faiblesse": [
+				"Feu",
+				"Glace",
+				"Vol",
+				"Psy"
+			],
+			"evo_plus": [
+				{
+					"id": 3,
+					"nom": {
+						"fr": "Florizarre",
+						"en": "Venusaur"
+					},
+					"how": "Niveau 32",
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 1,
+					"nom": {
+						"fr": "Bulbizarre",
+						"en": "Bulbasaur"
+					},
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				}
+			]
+		},
+		{
+			"id": 3,
+			"nom": {
+				"fr": "Florizarre",
+				"en": "Venusaur",
+				"jp": "フシギバナ",
+				"de": "Bisaflor"
+			},
+			"type": [
+				"Plante",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 80,
+				"attaque": 82,
+				"defense": 83,
+				"attaque_sp.": 100,
+				"defense_sp.": 100,
+				"vitesse": 80
+			},
+			"poids": "100,0 kg",
+			"taille": "2,0 m",
+			"famille": "Graine",
+			"talent": [
+				"Engrais",
+				"Chlorophylle"
+			],
+			"eclosion": 5120,
+			"exp_base": 236,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Vert",
+			"faiblesse": [
+				"Feu",
+				"Glace",
+				"Vol",
+				"Psy"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 1,
+					"nom": {
+						"fr": "Bulbizarre",
+						"en": "Bulbasaur"
+					},
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				},
+				{
+					"id": 2,
+					"nom": {
+						"fr": "Herbizarre",
+						"en": "Ivysaur"
+					},
+					"type": [
+						"Plante",
+						"Poison"
+					]
+				}
+			]
+		},
+		{
+			"id": 4,
+			"nom": {
+				"fr": "Salamèche",
+				"en": "Charmander",
+				"jp": "ヒトカゲ",
+				"de": "Glumanda"
+			},
+			"type": [
+				"Feu"
+			],
+			"stats_base": {
+				"PV": 39,
+				"attaque": 52,
+				"defense": 43,
+				"attaque_sp.": 60,
+				"defense_sp.": 50,
+				"vitesse": 65
+			},
+			"poids": "8,5 kg",
+			"taille": "0,6 m",
+			"famille": "Lézard",
+			"talent": [
+				"Brasier",
+				"Force Soleil"
+			],
+			"eclosion": 5120,
+			"exp_base": 65,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Rouge",
+			"faiblesse": [
+				"Eau",
+				"Sol",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 5,
+					"nom": {
+						"fr": "Reptincel",
+						"en": "Charmeleon"
+					},
+					"how": "Niveau 16",
+					"type": [
+						"Feu"
+					]
+				},
+				{
+					"id": 6,
+					"nom": {
+						"fr": "Dracaufeu",
+						"en": "Charizard"
+					},
+					"how": "Niveau 36",
+					"type": [
+						"Feu"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		}
+	]
+}
