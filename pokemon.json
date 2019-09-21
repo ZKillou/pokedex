@@ -22,6 +22,7 @@
 			},
 			"poids": "9,6 kg",
 			"taille": "0,7 m",
+			"tdc": 45,
 			"famille": "Graine",
 			"talent": [
 				"Engrais",
@@ -90,6 +91,7 @@
 			},
 			"poids": "13,0 kg",
 			"taille": "1,0 m",
+			"tdc": 45,
 			"famille": "Graine",
 			"talent": [
 				"Engrais",
@@ -157,6 +159,7 @@
 			},
 			"poids": "100,0 kg",
 			"taille": "2,0 m",
+			"tdc": 45,
 			"famille": "Graine",
 			"talent": [
 				"Engrais",
@@ -224,6 +227,7 @@
 			},
 			"poids": "8,5 kg",
 			"taille": "0,6 m",
+			"tdc": 45,
 			"famille": "Lézard",
 			"talent": [
 				"Brasier",
