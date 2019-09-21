@@ -44,6 +44,7 @@
 					"num": "002",
 					"fr": "Herbizarre",
 					"en": "Ivysaur",
+					"img": "http://www.serebii.net/pokemongo/pokemon/002.png",
 					"how": "Niveau 16",
 					"type": [
 						"Plante",
@@ -55,6 +56,7 @@
 					"num": "003",
 					"fr": "Florizarre",
 					"en": "Venusaur",
+					"img": "http://www.serebii.net/pokemongo/pokemon/003.png",
 					"how": "Niveau 32",
 					"type": [
 						"Plante",
@@ -124,6 +126,8 @@
 					"num": "001",
 					"fr": "Bulbizarre",
 					"en": "Bulbasaur",
+					"img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+					"how": "Niveau 16",
 					"type": [
 						"Plante",
 						"Poison"
@@ -178,6 +182,8 @@
 					"num": "001",
 					"fr": "Bulbizarre",
 					"en": "Bulbasaur",
+					"img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+					"how": "Niveau 16",
 					"type": [
 						"Plante",
 						"Poison"
@@ -188,6 +194,8 @@
 					"num": "002",
 					"fr": "Herbizarre",
 					"en": "Ivysaur",
+					"img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+					"how": "Niveau 32",
 					"type": [
 						"Plante",
 						"Poison"
@@ -237,6 +245,7 @@
 					"num": "005",
 					"fr": "Reptincel",
 					"en": "Charmeleon",
+					"img": "http://www.serebii.net/pokemongo/pokemon/005.png",
 					"how": "Niveau 16",
 					"type": [
 						"Feu"
@@ -247,6 +256,7 @@
 					"num": "006",
 					"fr": "Dracaufeu",
 					"en": "Charizard",
+					"img": "http://www.serebii.net/pokemongo/pokemon/006.png",
 					"how": "Niveau 36",
 					"type": [
 						"Feu",
