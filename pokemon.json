@@ -129,7 +129,6 @@
 					"fr": "Bulbizarre",
 					"en": "Bulbasaur",
 					"img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-					"how": "Niveau 16",
 					"type": [
 						"Plante",
 						"Poison"
@@ -186,7 +185,6 @@
 					"fr": "Bulbizarre",
 					"en": "Bulbasaur",
 					"img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-					"how": "Niveau 16",
 					"type": [
 						"Plante",
 						"Poison"
@@ -198,7 +196,7 @@
 					"fr": "Herbizarre",
 					"en": "Ivysaur",
 					"img": "http://www.serebii.net/pokemongo/pokemon/002.png",
-					"how": "Niveau 32",
+					"how": "Niveau 16",
 					"type": [
 						"Plante",
 						"Poison"
@@ -271,6 +269,319 @@
 			"evo_moins": [
 				"N'a pas de sous évolution"
 			]
-		} 
+		},
+		{
+			"id": 5,
+			"num": "005",
+			"fr": "Reptincel",
+			"en": "Charmeleon",
+			"jp": "リザード",
+			"de": "Glutexo",
+			"img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+			"type": [
+				"Feu"
+			],
+			"stats_base": {
+				"PV": 58,
+				"attaque": 64,
+				"defense": 58,
+				"attaque_sp.": 80,
+				"defense_sp.": 65,
+				"vitesse": 80
+			},
+			"poids": "19,0 kg",
+			"taille": "1,1 m",
+			"famille": "Flamme",
+			"talent": [
+				"Brasier",
+				"Force Soleil"
+			],
+			"eclosion": 5120,
+			"exp_base": 142,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Rouge",
+			"faiblesse": [
+				"Eau",
+				"Sol",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 6,
+					"num": "006",
+					"fr": "Dracaufeu",
+					"en": "Charizard",
+					"img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+					"how": "Niveau 36",
+					"type": [
+						"Feu",
+						"Vol"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 4,
+					"num": "004",
+					"fr": "Salamèche",
+					"en": "Charmander",
+					"img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+					"type": [
+						"Feu"
+					]
+				}
+			]
+		},
+		{
+			"id": 6,
+			"num": "006",
+			"fr": "Dracaufeu",
+			"en": "Charizard",
+			"jp": "リザードン",
+			"de": "Glurak",
+			"img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+			"type": [
+				"Feu",
+				"Vol"
+			],
+			"stats_base": {
+				"PV": 78,
+				"attaque": 84,
+				"defense": 78,
+				"attaque_sp.": 109,
+				"defense_sp.": 85,
+				"vitesse": 100
+			},
+			"poids": "90,5 kg",
+			"taille": "1,7 m",
+			"famille": "Flamme",
+			"talent": [
+				"Brasier",
+				"Force Soleil"
+			],
+			"eclosion": 5120,
+			"exp_base": 209,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Rouge",
+			"faiblesse": [
+				"Eau",
+				"Electrik",
+				"Roche"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 4,
+					"num": "004",
+					"fr": "Salamèche",
+					"en": "Charmander",
+					"img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+					"type": [
+						"Feu"
+					]
+				},
+				{
+					"id": 5,
+					"num": "005",
+					"fr": "Reptincel",
+					"en": "Charmeleon",
+					"img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+					"how": "Niveau 16",
+					"type": [
+						"Feu"
+					]
+				}
+			]
+		},
+		{
+			"id": 7,
+			"num": "007",
+			"fr": "Carapuce",
+			"en": "Squirtle",
+			"jp": "ゼニガメ",
+			"de": "Schiggy",
+			"img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+			"type": [
+				"Eau"
+			],
+			"stats_base": {
+				"PV": 44,
+				"attaque": 48,
+				"defense": 65,
+				"attaque_sp.": 50,
+				"defense_sp.": 64,
+				"vitesse": 43
+			},
+			"poids": "9,0 kg",
+			"taille": "0,5 m",
+			"famille": "Minitortue",
+			"talent": [
+				"Torrent",
+				"Cuvette"
+			],
+			"eclosion": 5120,
+			"exp_base": 66,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Bleu",
+			"faiblesse": [
+				"Plante",
+				"Electrik"
+			],
+			"evo_plus": [
+				{
+					"id": 8,
+					"num": "008",
+					"fr": "Carabaffe",
+					"en": "Wartortle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+					"how": "Niveau 16",
+					"type": [
+						"Eau"
+					]
+				},
+				{
+					"id": 9,
+					"num": "009",
+					"fr": "Tortank",
+					"en": "Blastoise",
+					"img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+					"how": "Niveau 36",
+					"type": [
+						"Eau"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		},
+		{
+			"id": 8,
+			"num": "008",
+			"fr": "Carabaffe",
+			"en": "Wartortle",
+			"jp": "カメール",
+			"de": "Schillok",
+			"img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+			"type": [
+				"Eau"
+			],
+			"stats_base": {
+				"PV": 59,
+				"attaque": 63,
+				"defense": 80,
+				"attaque_sp.": 65,
+				"defense_sp.": 80,
+				"vitesse": 58
+			},
+			"poids": "22,5 kg",
+			"taille": "1,0 m",
+			"famille": "Tortue",
+			"talent": [
+				"Torrent",
+				"Cuvette"
+			],
+			"eclosion": 5120,
+			"exp_base": 143,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Bleu",
+			"faiblesse": [
+				"Plante",
+				"Electrik"
+			],
+			"evo_plus": [
+				{
+					"id": 9,
+					"num": "009",
+					"fr": "Tortank",
+					"en": "Blastoise",
+					"img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+					"how": "Niveau 36",
+					"type": [
+						"Eau"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 7,
+					"num": "007",
+					"fr": "Carapuce",
+					"en": "Squirtle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+					"type": [
+						"Eau"
+					]
+				}
+			]
+		},
+		{
+			"id": 9,
+			"num": "009",
+			"fr": "Tortank",
+			"en": "Blastoise",
+			"jp": "カメックス",
+			"de": "Turtok",
+			"img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+			"type": [
+				"Eau"
+			],
+			"stats_base": {
+				"PV": 59,
+				"attaque": 63,
+				"defense": 80,
+				"attaque_sp.": 65,
+				"defense_sp.": 80,
+				"vitesse": 58
+			},
+			"poids": "22,5 kg",
+			"taille": "1,0 m",
+			"famille": "Tortue",
+			"talent": [
+				"Torrent",
+				"Cuvette"
+			],
+			"eclosion": 5120,
+			"exp_base": 143,
+			"exp_fin": 1059860,
+			"sexe": "87,5% mâle / 12,5% femelle",
+			"couleur": "Bleu",
+			"faiblesse": [
+				"Plante",
+				"Electrik"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 7,
+					"num": "007",
+					"fr": "Carapuce",
+					"en": "Squirtle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+					"type": [
+						"Eau"
+					]
+				},
+				{
+					"id": 8,
+					"num": "008",
+					"fr": "Carabaffe",
+					"en": "Wartortle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+					"how": "Niveau 16",
+					"type": [
+						"Eau"
+					]
+				}
+			]
+		}
 	]
 }
