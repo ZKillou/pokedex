@@ -783,6 +783,209 @@
 					]
 				}
 			]
+		},
+		{
+			"id": 13,
+			"num": "013",
+			"fr": "Aspicot",
+			"en": "Weedle",
+			"jp": "ビードル",
+			"de": "Hornliu",
+			"img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+			"type": [
+				"Insecte",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 40,
+				"attaque": 35,
+				"defense": 30,
+				"attaque_sp.": 20,
+				"defense_sp.": 20,
+				"vitesse": 50
+			},
+			"poids": "3,2 kg",
+			"taille": "0,3 m",
+			"tdc": 225,
+			"famille": "Insectopic",
+			"talent": [
+				"Écran Poudre",
+				"Fuite"
+			],
+			"eclosion": 3840,
+			"exp_base": 52,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Marron",
+			"faiblesse": [
+				"Feu",
+				"Vol",
+				"Psy",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 14,
+					"num": "014",
+					"fr": "Coconfort",
+					"en": "Kakuna",
+					"img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+					"how": "Niveau 7",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				},
+				{
+					"id": 15,
+					"num": "015",
+					"fr": "Dardargnan",
+					"en": "Beedrill",
+					"img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+					"how": "Niveau 10",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		},
+		{
+			"id": 14,
+			"num": "014",
+			"fr": "Coconfort",
+			"en": "Kakuna",
+			"jp": "コクーン",
+			"de": "Kokuna",
+			"img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+			"type": [
+				"Insecte",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 45,
+				"attaque": 25,
+				"defense": 50,
+				"attaque_sp.": 25,
+				"defense_sp.": 25,
+				"vitesse": 35
+			},
+			"poids": "10,0 kg",
+			"taille": "0,6 m",
+			"tdc": 120,
+			"famille": "Cocon",
+			"talent": [
+				"Mue"
+			],
+			"eclosion": 3840,
+			"exp_base": 71,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Jaune",
+			"faiblesse": [
+				"Feu",
+				"Vol",
+				"Psy",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 15,
+					"num": "015",
+					"fr": "Dardargnan",
+					"en": "Beedrill",
+					"img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+					"how": "Niveau 10",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 13,
+					"num": "013",
+					"fr": "Aspicot",
+					"en": "Weedle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				}
+			]
+		},
+		{
+			"id": 15,
+			"num": "015",
+			"fr": "Dardargnan",
+			"en": "Beedrill",
+			"jp": "スピアー",
+			"de": "Bibor",
+			"img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+			"type": [
+				"Insecte",
+				"Poison"
+			],
+			"stats_base": {
+				"PV": 65,
+				"attaque": 80,
+				"defense": 40,
+				"attaque_sp.": 45,
+				"defense_sp.": 80,
+				"vitesse": 75
+			},
+			"poids": "29,5 kg",
+			"taille": "1,0 m",
+			"tdc": 45,
+			"famille": "Guêpoison",
+			"talent": [
+				"Essaim",
+				"Sniper"
+			],
+			"eclosion": 3840,
+			"exp_base": 159,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Jaune",
+			"faiblesse": [
+				"Feu",
+				"Vol",
+				"Psy",
+				"Roche"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 13,
+					"num": "013",
+					"fr": "Aspicot",
+					"en": "Weedle",
+					"img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				},
+				{
+					"id": 14,
+					"num": "014",
+					"fr": "Coconfort",
+					"en": "Kakuna",
+					"img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+					"how": "Niveau 7",
+					"type": [
+						"Insecte",
+						"Poison"
+					]
+				}
+			]
 		}
 	]
 }
