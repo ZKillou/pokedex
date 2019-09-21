@@ -730,12 +730,12 @@
 				"Vol"
 			],
 			"stats_base": {
-				"PV": 50,
-				"attaque": 20,
-				"defense": 55,
-				"attaque_sp.": 25,
-				"defense_sp.": 30,
-				"vitesse": 30
+				"PV": 60,
+				"attaque": 45,
+				"defense": 50,
+				"attaque_sp.": 90,
+				"defense_sp.": 80,
+				"vitesse": 70
 			},
 			"poids": "32,0 kg",
 			"taille": "1,1 m",
