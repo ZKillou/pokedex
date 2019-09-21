@@ -291,6 +291,7 @@
 			},
 			"poids": "19,0 kg",
 			"taille": "1,1 m",
+			"tdc": 45,
 			"famille": "Flamme",
 			"talent": [
 				"Brasier",
@@ -355,6 +356,7 @@
 			},
 			"poids": "90,5 kg",
 			"taille": "1,7 m",
+			"tdc": 45,
 			"famille": "Flamme",
 			"talent": [
 				"Brasier",
@@ -418,6 +420,7 @@
 			},
 			"poids": "9,0 kg",
 			"taille": "0,5 m",
+			"tdc": 45,
 			"famille": "Minitortue",
 			"talent": [
 				"Torrent",
@@ -481,6 +484,7 @@
 			},
 			"poids": "22,5 kg",
 			"taille": "1,0 m",
+			"tdc": 45,
 			"famille": "Tortue",
 			"talent": [
 				"Torrent",
@@ -533,22 +537,23 @@
 				"Eau"
 			],
 			"stats_base": {
-				"PV": 59,
-				"attaque": 63,
-				"defense": 80,
-				"attaque_sp.": 65,
-				"defense_sp.": 80,
-				"vitesse": 58
+				"PV": 79,
+				"attaque": 83,
+				"defense": 100,
+				"attaque_sp.": 85,
+				"defense_sp.": 105,
+				"vitesse": 85
 			},
-			"poids": "22,5 kg",
-			"taille": "1,0 m",
-			"famille": "Tortue",
+			"poids": "85,5 kg",
+			"taille": "1,6 m",
+			"tdc": 45,
+			"famille": "Carapace",
 			"talent": [
 				"Torrent",
 				"Cuvette"
 			],
 			"eclosion": 5120,
-			"exp_base": 143,
+			"exp_base": 210,
 			"exp_fin": 1059860,
 			"sexe": "87,5% mâle / 12,5% femelle",
 			"couleur": "Bleu",
