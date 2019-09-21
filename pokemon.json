@@ -587,6 +587,202 @@
 					]
 				}
 			]
+		},
+		{
+			"id": 10,
+			"num": "010",
+			"fr": "Chenipan",
+			"en": "Caterpie",
+			"jp": "キャタピ",
+			"de": "Raupy",
+			"img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+			"type": [
+				"Insecte"
+			],
+			"stats_base": {
+				"PV": 45,
+				"attaque": 30,
+				"defense": 35,
+				"attaque_sp.": 20,
+				"defense_sp.": 20,
+				"vitesse": 45
+			},
+			"poids": "1,9 kg",
+			"taille": "0,3 m",
+			"tdc": 255,
+			"famille": "Ver",
+			"talent": [
+				"Écran Poudre",
+				"Fuite"
+			],
+			"eclosion": 3840,
+			"exp_base": 53,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Vert",
+			"faiblesse": [
+				"Feu",
+				"Vol",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 11,
+					"num": "011",
+					"fr": "Chrysacier",
+					"en": "Metapod",
+					"img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+					"how": "Niveau 7",
+					"type": [
+						"Insecte"
+					]
+				},
+				{
+					"id": 12,
+					"num": "012",
+					"fr": "Papilusion",
+					"en": "Butterfree",
+					"img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+					"how": "Niveau 10",
+					"type": [
+						"Insecte",
+						"Vol"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		},
+		{
+			"id": 11,
+			"num": "011",
+			"fr": "Chysacier",
+			"en": "Metapod",
+			"jp": "トランセル",
+			"de": "Safcon",
+			"img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+			"type": [
+				"Insecte"
+			],
+			"stats_base": {
+				"PV": 50,
+				"attaque": 20,
+				"defense": 55,
+				"attaque_sp.": 25,
+				"defense_sp.": 30,
+				"vitesse": 30
+			},
+			"poids": "9,9 kg",
+			"taille": "0,7 m",
+			"tdc": 120,
+			"famille": "Cocon",
+			"talent": [
+				"Mue"
+			],
+			"eclosion": 3840,
+			"exp_base": 72,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Vert",
+			"faiblesse": [
+				"Feu",
+				"Vol",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 12,
+					"num": "012",
+					"fr": "Papilusion",
+					"en": "Butterfree",
+					"img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+					"how": "Niveau 10",
+					"type": [
+						"Insecte",
+						"Vol"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 10,
+					"num": "010",
+					"fr": "Chenipan",
+					"en": "Caterpie",
+					"img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+					"type": [
+						"Insecte"
+					]
+				}
+			]
+		},
+		{
+			"id": 12,
+			"num": "012",
+			"fr": "Papilusion",
+			"en": "Butterfree",
+			"jp": "バタフリー",
+			"de": "Smettbo",
+			"img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+			"type": [
+				"Insecte",
+				"Vol"
+			],
+			"stats_base": {
+				"PV": 50,
+				"attaque": 20,
+				"defense": 55,
+				"attaque_sp.": 25,
+				"defense_sp.": 30,
+				"vitesse": 30
+			},
+			"poids": "32,0 kg",
+			"taille": "1,1 m",
+			"tdc": 160,
+			"famille": "Cocon",
+			"talent": [
+				"Œil Composé",
+				"Lentiteintée"
+			],
+			"eclosion": 3840,
+			"exp_base": 160,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Blanc",
+			"faiblesse": [
+				"Feu",
+				"Électrik",
+				"Glace",
+				"Vol",
+				"Roche"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 10,
+					"num": "010",
+					"fr": "Chenipan",
+					"en": "Caterpie",
+					"img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+					"type": [
+						"Insecte"
+					]
+				},
+				{
+					"id": 11,
+					"num": "011",
+					"fr": "Chrysacier",
+					"en": "Metapod",
+					"img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+					"how": "Niveau 7",
+					"type": [
+						"Insecte"
+					]
+				}
+			]
 		}
 	]
 }
