@@ -321,7 +321,7 @@
 		{
 			"fr": "Smogogo de Galar",
 			"en": "Galarian Weezing",
-			"de": "Smogmog von Galar",
+			"de": "Galar-Smogmog",
 			"jp": "ガラルのマタドガス *Galar no Matadogas*",
 			"num": "110",
 			"cath": "Gaz Mortel",
@@ -345,7 +345,7 @@
 		{
 			"fr": "Zigzaton de Galar",
 			"en": "Galarian Zigzagoon",
-			"de": "Zigzachs von Galar",
+			"de": "Galar-Zigzachs",
 			"jp": "ガラルのジグザグマ *Galar no Jiguzaguma*",
 			"num": "263",
 			"cath": "Petit Raton",
@@ -373,7 +373,7 @@
 		{
 			"fr": "Linéon de Galar",
 			"en": "Galarian Linoone",
-			"de": "Geradaks von Galar",
+			"de": "Galar-Geradaks",
 			"jp": "ガラルのマッスグマ *Galar no Massuguma*",
 			"num": "263",
 			"cath": "Fonceur",
@@ -517,7 +517,7 @@
 		{
 			"fr": "Ponyta de Galar",
 			"en": "Galarian Ponyta",
-			"de": "Ponyta von Galar",
+			"de": "Galar-Ponita",
 			"jp": "ガラルのポニータ *Galar no Ponīta*",
 			"num": "077",
 			"cath": "Monocorne",
