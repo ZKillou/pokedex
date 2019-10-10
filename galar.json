@@ -437,7 +437,7 @@
 			],
 			"taille": "0,3 m",
 			"poids": "3,0 kg",
-			"artwork": '</string: Please, check "artwork_1" and "artwork_2"\, /Error: two value, string\, /Quelle: pokepedia.fr\>',
+			"artwork": "<string: Please, check 'artwork_1' and 'artwork_2'; Error: two value, string; Quelle: pokepedia.fr>",
 			"artwork_1": "https://www.pokepedia.fr/images/c/c8/Morpeko_%28Mode_Rassasi%C3%A9%29-EB.png",
 			"artwork_2": "https://www.pokepedia.fr/images/2/2c/Morpeko_%28Mode_Affam%C3%A9%29-EB.png",
 			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_morpeko_2x.png",
