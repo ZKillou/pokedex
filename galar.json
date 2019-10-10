@@ -1,1 +1,542 @@
-{}
+{
+	"pkm": [
+		{
+			"fr": "Ouistempo",
+			"en": "Grookey",
+			"de": "Chimpep",
+			"jp": "サルノリ *Sarunori*",
+			"num": "810",
+			"cath": "Chimpanzé",
+			"type": [
+				"Plante"
+			],
+			"talent": [
+				"Engrais"
+			],
+			"taille": "0,3 m",
+			"poids": "5,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_grookey_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_grookey2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Flambino",
+			"en": "Scorbunny",
+			"de": "Hopplo",
+			"jp": "ヒバニー *Hibanny*",
+			"num": "813",
+			"cath": "Lapin",
+			"type": [
+				"Feu"
+			],
+			"talent": [
+				"Brasier"
+			],
+			"taille": "0,3 m",
+			"poids": "4,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_scorbunny_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_scorbunny2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Larméléon",
+			"en": "Sobble",
+			"de": "Memmeon",
+			"jp": "メッソン *Messon*",
+			"num": "816",
+			"cath": "Lézard'Eau",
+			"type": [
+				"Eau"
+			],
+			"talent": [
+				"Torrent"
+			],
+			"taille": "0,3 m",
+			"poids": "4,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_sobble_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_sobble2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Zacian",
+			"en": "Zacian",
+			"de": "Zacian",
+			"jp": "ザシアン *Zacian*",
+			"num": "??",
+			"cath": "??",
+			"type": [
+				"??"
+			],
+			"talent": [
+				"??"
+			],
+			"taille": "??",
+			"poids": "??",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_zacian_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Zamazenta",
+			"en": "Zamazenta",
+			"de": "Zamazenta",
+			"jp": "ザマゼンタ *Zamazenta*",
+			"num": "??",
+			"cath": "??",
+			"type": [
+				"??"
+			],
+			"talent": [
+				"??"
+			],
+			"taille": "??",
+			"poids": "??",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_zamazenta_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Tournicoton",
+			"en": "Gossifleur",
+			"de": "Cottini",
+			"jp": "ヒメンカ *Himenka*",
+			"num": "??",
+			"cath": "Chef-Fleur",
+			"type": [
+				"Plante"
+			],
+			"talent": [
+				"Effilochage",
+				"Régé-Force"
+			],
+			"taille": "0,4 m",
+			"poids": "2,2 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_gossifleur_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Blancoton",
+			"en": "Eldegoss",
+			"de": "Cottomi",
+			"jp": "ワタシラガ *Watashiraga*",
+			"num": "??",
+			"cath": "Chef-Coton",
+			"type": [
+				"Plante"
+			],
+			"talent": [
+				"Effilochage",
+				"Régé-Force"
+			],
+			"taille": "0,5 m",
+			"poids": "2,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_eldegoss_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Moumouton",
+			"en": "Wooloo",
+			"de": "Wolly",
+			"jp": "ウールー *Ūrū*",
+			"num": "??",
+			"cath": "Mouton",
+			"type": [
+				"Normal"
+			],
+			"talent": [
+				"Boule de Poils",
+				"Fuite"
+			],
+			"taille": "0,6 m",
+			"poids": "6,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon-wooloo_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon-wooloo2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Corvaillus",
+			"en": "Corviknight",
+			"de": "Krarmor",
+			"jp": "アーマーガア *Āmāgā*",
+			"num": "??",
+			"cath": "Corbeau",
+			"type": [
+				"Vol",
+				"Acier"
+			],
+			"talent": [
+				"Pression",
+				"Tension"
+			],
+			"taille": "2,2 m",
+			"poids": "75,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_corviknight_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Torgamord",
+			"en": "Drednaw",
+			"de": "Kamalm",
+			"jp": "カジリガメ *Kajirigame*",
+			"num": "??",
+			"cath": "Morsure",
+			"type": [
+				"Eau",
+				"Roche"
+			],
+			"talent": [
+				"Pression",
+				"Tension"
+			],
+			"taille": "1,0 m",
+			"poids": "115,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_drednaw_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Charmilly",
+			"en": "Alcremie",
+			"de": "Pokusan",
+			"jp": "マホイップ *Mahoippu*",
+			"num": "??",
+			"cath": "Crème",
+			"type": [
+				"Fée"
+			],
+			"talent": [
+				"Gluco-Voile"
+			],
+			"taille": "0,3 m",
+			"poids": "0,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_alcremie_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Voltoutou",
+			"en": "Yamper",
+			"de": "Voldi",
+			"jp": "ワンパチ *Wanpachi*",
+			"num": "??",
+			"cath": "Chiot",
+			"type": [
+				"Électrik"
+			],
+			"talent": [
+				"Ramasse Ball"
+			],
+			"taille": "0,3 m",
+			"poids": "13,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_yamper_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/screenshots/7_8_yampers_2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Charbi",
+			"en": "Rolycoly",
+			"de": "Klonkett",
+			"jp": "タンドン *Tandon*",
+			"num": "??",
+			"cath": "Charbon",
+			"type": [
+				"Roche"
+			],
+			"talent": [
+				"Turbine",
+				"Ignifugé"
+			],
+			"taille": "0,3 m",
+			"poids": "12,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_rolycoly_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/screenshots/7_8_rolycoly_2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Duralugon",
+			"en": "Duraludon",
+			"de": "Duraludon",
+			"jp": "ジュラルドン *Jurarudon*",
+			"num": "??",
+			"cath": "Alliage",
+			"type": [
+				"Acier",
+				"Dragon"
+			],
+			"talent": [
+				"Light Metal",
+				"Heavy Metal"
+			],
+			"taille": "1,8 m",
+			"poids": "40,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_duraludon_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Smogogo de Galar",
+			"en": "Galarian Weezing",
+			"de": "Smogmog von Galar",
+			"jp": "ガラルのマタドガス *Galar no Matadogas*",
+			"num": "110",
+			"cath": "Gaz Mortel",
+			"type": [
+				"Poison",
+				"Fée"
+			],
+			"talent": [
+				"Lévitation",
+				"???"
+			],
+			"taille": "3,0 m",
+			"poids": "16,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_weezing_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Zigzaton de Galar",
+			"en": "Galarian Zigzagoon",
+			"de": "Zigzachs von Galar",
+			"jp": "ガラルのジグザグマ *Galar no Jiguzaguma*",
+			"num": "263",
+			"cath": "Petit Raton",
+			"type": [
+				"Ténèbres",
+				"Normal"
+			],
+			"talent": [
+				"Ramassage",
+				"Gloutonnerie"
+			],
+			"taille": "0,4 m",
+			"poids": "17,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_zigzagoon_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			],
+			"evo": [
+				"Linéon de Galar",
+				"Ixion"
+			]
+		},
+		{
+			"fr": "Linéon de Galar",
+			"en": "Galarian Linoone",
+			"de": "Geradaks von Galar",
+			"jp": "ガラルのマッスグマ *Galar no Massuguma*",
+			"num": "263",
+			"cath": "Fonceur",
+			"type": [
+				"Ténèbres",
+				"Normal"
+			],
+			"talent": [
+				"Ramassage",
+				"Gloutonnerie"
+			],
+			"taille": "0,5 m",
+			"poids": "32,5 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_linoone_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			],
+			"evo": [
+				"Ixon"
+			]
+		},
+		{
+			"fr": "Ixon",
+			"en": "Obstagoon",
+			"de": "Barrikadax",
+			"jp": "タチフサグマ *Tachifusaguma*",
+			"num": "???",
+			"cath": "Barrage",
+			"type": [
+				"Ténèbres",
+				"Normal"
+			],
+			"talent": [
+				"Téméraire",
+				"Cran"
+			],
+			"taille": "1,6 m",
+			"poids": "46,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_obstagoon_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_obstagoon_2_2x.png",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Morpeko",
+			"en": "Morpeko",
+			"de": "Morpeko",
+			"jp": "モルペコ *Morupeko*",
+			"num": "???",
+			"cath": "Volt Face",
+			"type": [
+				"Électrick",
+				"Ténèbres"
+			],
+			"talent": [
+				"Déclic Fringale"
+			],
+			"taille": "0,3 m",
+			"poids": "3,0 kg",
+			"artwork": '</string: Please, check "artwork_1" and "artwork_2"\, /Error: two value, string\, /Quelle: pokepedia.fr\>',
+			"artwork_1": "https://www.pokepedia.fr/images/c/c8/Morpeko_%28Mode_Rassasi%C3%A9%29-EB.png",
+			"artwork_2": "https://www.pokepedia.fr/images/2/2c/Morpeko_%28Mode_Affam%C3%A9%29-EB.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/articles/pokemon_morpeko_2x.png",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Nigosier",
+			"en": "Cramorant",
+			"de": "Urgl",
+			"jp": "ウッウ *U'u*",
+			"num": "???",
+			"cath": "Avaltouron",
+			"type": [
+				"Vol",
+				"Eau"
+			],
+			"talent": [
+				"Dégobage"
+			],
+			"taille": "0,8 m",
+			"poids": "18,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_cramorant_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/screenshots/9_4_cramorant_1_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Polthégeist",
+			"en": "Polteageist",
+			"de": "Mortipot",
+			"jp": "ポットデス *Pottodesu*",
+			"num": "???",
+			"cath": "Thé Noir",
+			"type": [
+				"Spectre"
+			],
+			"talent": [
+				"Armurouillée"
+			],
+			"taille": "0,2 m",
+			"poids": "0,4 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_polteageist_2x.png",
+			"artwork_special": false,
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			]
+		},
+		{
+			"fr": "Palarticho",
+			"en": "Sirfetch'd",
+			"de": "Lauchzelot",
+			"jp": "ネギガナイト *Negiganaito*",
+			"num": "???",
+			"cath": "Canard Fou",
+			"type": [
+				"Combat"
+			],
+			"talent": [
+				"Impassible"
+			],
+			"taille": "0,8 m",
+			"poids": "117,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_sirfetchd_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/screenshots/9_18_sirfetchd_3_2x.png",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			],
+			"exclu": "Exclusivité de Épée"
+		},
+		{
+			"fr": "Ponyta de Galar",
+			"en": "Galarian Ponyta",
+			"de": "Ponyta von Galar",
+			"jp": "ガラルのポニータ *Galar no Ponīta*",
+			"num": "077",
+			"cath": "Monocorne",
+			"type": [
+				"Psy"
+			],
+			"talent": [
+				"Fuite",
+				"Voile Pastel"
+			],
+			"taille": "0,8 m",
+			"poids": "24,0 kg",
+			"artwork": "https://swordshield.pokemon.com/assets/img/articles/pokemon_ponyta_2x.png",
+			"artwork_special": "https://swordshield.pokemon.com/assets/img/screenshots/10_7_ponyta_2_2x.jpg",
+			"Quelle": [
+				"https://www.pokepedia.fr/ ",
+				"https://www.pokemon.com/ "
+			],
+			"exclu": "Exclusivité de Bouclier"
+		}
+	]
+}
