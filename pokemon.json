@@ -986,6 +986,314 @@
 					]
 				}
 			]
+		},
+                {
+			"id": 16,
+			"num": "016",
+			"fr": "Roucool",
+			"en": "Pidgey",
+			"jp": "ポッポ",
+			"de": "Taubsi",
+			"img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+			"type": [
+				"Normal",
+				"Vol"
+			],
+			"stats_base": {
+				"PV": 40,
+				"attaque": 45,
+				"defense": 40,
+				"attaque_sp.": 35,
+				"defense_sp.": 35,
+				"vitesse": 56
+			},
+			"poids": "1,8 kg",
+			"taille": "0,3 m",
+			"tdc": 225,
+			"famille": "Minoiseau",
+			"talent": [
+				"Regard Vif",
+				"Pieds Confus",
+				"Cœur de Coq"
+			],
+			"eclosion": 3840,
+			"exp_base": 55,
+			"exp_fin": 1059860,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Marron",
+			"faiblesse": [
+				"Électrik",
+				"Glace",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 17,
+					"num": "017",
+					"fr": "Roucoups",
+					"en": "Pidgeotto",
+					"img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+					"how": "Niveau 18",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				},
+				{
+					"id": 18,
+					"num": "018",
+					"fr": "Roucarnage",
+					"en": "Pidgeot",
+					"img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+					"how": "Niveau 36",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		},
+		{
+			"id": 17,
+			"num": "017",
+			"fr": "Roucoups",
+			"en": "Pidgeotto",
+			"jp": "ピジョン",
+			"de": "Tauboga",
+			"img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+			"type": [
+				"Normal",
+				"Vol"
+			],
+			"stats_base": {
+				"PV": 63,
+				"attaque": 60,
+				"defense": 55,
+				"attaque_sp.": 50,
+				"defense_sp.": 50,
+				"vitesse": 71
+			},
+			"poids": "30,0 kg",
+			"taille": "1,1 m",
+			"tdc": 120,
+			"famille": "Oiseau",
+			"talent": [
+				"Regard Vif",
+				"Pieds Confus",
+				"Cœur de Coq"
+			],
+			"eclosion": 3840,
+			"exp_base": 113,
+			"exp_fin": 1059860,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Marron",
+			"faiblesse": [
+				"Électrik",
+				"Glace",
+				"Roche"
+			],
+			"evo_plus": [
+				{
+					"id": 18,
+					"num": "018",
+					"fr": "Roucarnage",
+					"en": "Pidgeot",
+					"img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+					"how": "Niveau 36",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				}
+			],
+			"evo_moins": [
+				{
+					"id": 16,
+					"num": "016",
+					"fr": "Roucool",
+					"en": "Pidgey",
+					"img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				}
+			]
+		},
+		{
+			"id": 18,
+			"num": "018",
+			"fr": "Roucarnage",
+			"en": "Pidgeot",
+			"jp": "ピジョン",
+			"de": "Tauboga",
+			"img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+			"type": [
+				"Normal",
+				"Vol"
+			],
+			"stats_base": {
+				"PV": 83,
+				"attaque": 80,
+				"defense": 75,
+				"attaque_sp.": 70,
+				"defense_sp.": 70,
+				"vitesse": 101
+			},
+			"poids": "39,5 kg",
+			"taille": "1,5 m",
+			"tdc": 120,
+			"famille": "Oiseau",
+			"talent": [
+				"Regard Vif",
+				"Pieds Confus",
+				"Cœur de Coq"
+			],
+			"eclosion": 3840,
+			"exp_base": 113,
+			"exp_fin": 1059860,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Marron",
+			"faiblesse": [
+				"Électrik",
+				"Glace",
+				"Roche"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 16,
+					"num": "016",
+					"fr": "Roucool",
+					"en": "Pidgey",
+					"img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				},
+				{
+					"id": 17,
+					"num": "017",
+					"fr": "Roucoups",
+					"en": "Pidgeotto",
+					"img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+					"type": [
+						"Normal",
+						"Vol"
+					]
+				}
+			]
+		},
+		{
+			"id": 19,
+			"num": "019",
+			"fr": "Rattata",
+			"en": "Rattata",
+			"jp": "ÃĖØ97Ý",
+			"de": "Rattfratz",
+			"img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+			"type": [
+				"Normal"
+			],
+			"stats_base": {
+				"PV": 40,
+				"attaque": 45,
+				"defense": 40,
+				"attaque_sp.": 35,
+				"defense_sp.": 35,
+				"vitesse": 56
+			},
+			"poids": "3,5 kg",
+			"taille": "0,3 m",
+			"tdc": 225,
+			"famille": "Souris",
+			"talent": [
+				"Cran",
+				"Fuite",
+				"Agitation"
+			],
+			"eclosion": 3840,
+			"exp_base": 57,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Violet",
+			"faiblesse": [
+				"Combat"
+			],
+			"evo_plus": [
+				{
+					"id": 20,
+					"num": "020",
+					"fr": "Rattatac",
+					"en": "Raticate",
+					"img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+					"how": "Niveau 20",
+					"type": [
+						"Normal"
+					]
+				}
+			],
+			"evo_moins": [
+				"N'a pas de sous évolution"
+			]
+		},
+		{
+			"id": 20,
+			"num": "020",
+			"fr": "Rattatac",
+			"en": "Raticate",
+			"jp": "ÃĖØ97Ý",
+			"de": "Rattikarl",
+			"img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+			"type": [
+				"Normal"
+			],
+			"stats_base": {
+				"PV": 55,
+				"attaque": 81,
+				"defense": 60,
+				"attaque_sp.": 50,
+				"defense_sp.": 70,
+				"vitesse": 97
+			},
+			"poids": "18,5 kg",
+			"taille": "0,7 m",
+			"tdc": 127,
+			"famille": "Souris",
+			"talent": [
+				"Cran",
+				"Fuite",
+				"Agitation"
+			],
+			"eclosion": 3840,
+			"exp_base": 116,
+			"exp_fin": 1000000,
+			"sexe": "50% mâle / 50% femelle",
+			"couleur": "Marron",
+			"faiblesse": [
+				"Combat"
+			],
+			"evo_plus": [
+				"N'a pas d'évolution"
+			],
+			"evo_moins": [
+				{
+					"id": 19,
+					"num": "019",
+					"fr": "Rattata",
+					"en": "Rattata",
+					"img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+					"type": [
+						"Normal"
+					]
+				}
+			]
 		}
 	]
 }
