@@ -1,14 +1,14 @@
 {
-	"artwork": {
-		1: {
+	"artwork": [
+		{
 			"artwork": "https://i.imgur.com/xSpdWqw.png",
 			"fr": "Bulbizarre",
 			"en": "Bulbasaur"
 		},
-		2: {
+		{
 			"artwork": "https://i.imgur.com/Yjc2v1X.png",
 			"fr": "Herbizarre",
 			"en": "Ivysaur"
 		}
-	}
+	]
 }
