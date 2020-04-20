@@ -1,5 +1,5 @@
 {
-	"artwork": [
+	"artwork": {
 		{
 			"artwork": "https://i.imgur.com/xSpdWqw.png",
 			"fr": "Bulbizarre",
@@ -9,6 +9,318 @@
 			"artwork": "https://i.imgur.com/Yjc2v1X.png",
 			"fr": "Herbizarre",
 			"en": "Ivysaur"
-		}
-	]
+		},
+		{
+			"artwork": "https://i.imgur.com/vRMaOmT.png",
+			"fr": "Florizarre",
+			"en": "Venusaur"
+		},
+		{
+			"artwork": "https://i.imgur.com/I8q50uf.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Venusaur"
+		},
+		{
+			"artwork": "https://i.imgur.com/yalozuD.png",
+			"fr": "Salamèche",
+			"en": "Charmander"
+		},
+		{
+			"artwork": "https://i.imgur.com/3ilJteX.png",
+			"fr": "Reptincel",
+			"en": "Charmeleon"
+		},
+		{
+			"artwork": "https://i.imgur.com/9xrmMnK.png",
+			"fr": "Dracaufeu",
+			"en": "Charizard"
+		},
+		{
+			"artwork": "https://i.imgur.com/N8wNO0Q.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Charizard X"
+		},
+		{
+			"artwork": "https://i.imgur.com/IRPHzb4.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Charizard Y"
+		},
+		{
+			"artwork": "https://i.imgur.com/QXuOwCI.png",
+			"fr": "Carapuce",
+			"en": "Squirtle"
+		},
+		{
+			"artwork": "https://i.imgur.com/jZgg2M8.png",
+			"fr": "Carabaffe",
+			"en": "Wartortle"
+		},
+		{
+			"artwork": "https://i.imgur.com/Q4sZDZj.png",
+			"fr": "Tortank",
+			"en": "Blastoise"
+		},
+		{
+			"artwork": "https://i.imgur.com/yAvGnM7.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Blastoise"
+		},
+		{
+			"artwork": "https://i.imgur.com/hcTyTS5.png",
+			"fr": "Chenipan",
+			"en": "Caterpie"
+		},
+		{
+			"artwork": "https://i.imgur.com/5TBzoWM.png",
+			"fr": "Chrysacier",
+			"en": "Metapod"
+		},
+		{
+			"artwork": "https://i.imgur.com/5TBzoWM.png",
+			"fr": "Papilusion",
+			"en": "Butterfree"
+		},
+		{
+			"artwork": "https://i.imgur.com/J8b0JCj.png",
+			"fr": "Aspicot",
+			"en": "Weedle"
+		},
+		{
+			"artwork": "https://i.imgur.com/07SQW7w.png",
+			"fr": "Coconfort",
+			"en": "Kakuna"
+		},
+		{
+			"artwork": "https://i.imgur.com/Vr35M1V.png",
+			"fr": "Dardargnan",
+			"en": "Beedrill"
+		},
+		{
+			"artwork": "https://i.imgur.com/P02k3m9.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Beedrill"
+		},
+		{
+			"artwork": "https://i.imgur.com/1pGvpSE.png",
+			"fr": "Roucool",
+			"en": "Pidgey"
+		},
+		{
+			"artwork": "https://i.imgur.com/ySbPwLo.png",
+			"fr": "Roucoups",
+			"en": "Pidgeotto"
+		},
+		{
+			"artwork": "https://i.imgur.com/agWMQWg.png",
+			"fr": "Roucarnage",
+			"en": "Pidgeot"
+		},
+		{
+			"artwork": "https://i.imgur.com/mANwu3N.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Pidgeot"
+		},
+		{
+			"artwork": "https://i.imgur.com/16oT20Z.png",
+			"fr": "Rattata",
+			"en": "Rattata"
+		},
+		{
+			"artwork": "https://i.imgur.com/3gBKjdn.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Rattata"
+		},
+		{
+			"artwork": "https://i.imgur.com/wENGVnD.png",
+			"fr": "Rattatac",
+			"en": "Raticate"
+		},
+		{
+			"artwork": "https://i.imgur.com/hVTy8xd.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Raticate"
+		},
+		{
+			"artwork": "https://i.imgur.com/hVTy8xd.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Raticate"
+		},
+		{
+			"artwork": "https://i.imgur.com/0rQW3tK.png",
+			"fr": "Piafabec",
+			"en": "Spearow"
+		},
+		{
+			"artwork": "https://i.imgur.com/oo4X92Q.png",
+			"fr": "Rapasdepic",
+			"en": "Fearow"
+		},
+		{
+			"artwork": "https://i.imgur.com/b5O2KZo.png",
+			"fr": "Abo",
+			"en": "Ekans"
+		},
+		{
+			"artwork": "https://i.imgur.com/eeZ27Pr.png",
+			"fr": "Arbok",
+			"en": "Arbok"
+		},
+		{
+			"artwork": "https://i.imgur.com/kb5fPWL.png",
+			"fr": "Pikachu",
+			"en": "Pikachu"
+		},
+		{
+			"artwork": "https://i.imgur.com/cWmNm1Q.png",
+			"fr": "Raichu",
+			"en": "Raichu"
+		},
+		{
+			"artwork": "https://i.imgur.com/0nEtSr4.png",
+			"fr": "Sabelette",
+			"en": "Sandshrew"
+		},
+		{
+			"artwork": "https://i.imgur.com/nKCPoll.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Sandshrew"
+		},
+		{
+			"artwork": "https://i.imgur.com/uGjVBat.png",
+			"fr": "Sablaireau",
+			"en": "Sandslash"
+		},
+		{
+			"artwork": "https://i.imgur.com/QkgZbvS.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Sandslash"
+		},
+		{
+			"artwork": "https://i.imgur.com/PzvyNLM.png",
+			"fr": "Nidoran♀",
+			"en": "Nidoran♀",
+			"info": "Nidoran suffit"
+		},
+		{
+			"artwork": "https://i.imgur.com/PPTp87h.png",
+			"fr": "Nidorina",
+			"en": "Nidorina"
+		},
+		{
+			"artwork": "https://i.imgur.com/okxKXgi.png",
+			"fr": "Nidoqueen",
+			"en": "Nidoqueen"
+		},
+		{
+			"artwork": "https://i.imgur.com/YAgOuk0.png",
+			"fr": "Nidoran♂",
+			"en": "Nidoran♂",
+			"info": "Nidoran suffit"
+		},
+		{
+			"artwork": "https://i.imgur.com/C4i4Eln.png",
+			"fr": "Nidorino",
+			"en": "Nidorino"
+		},
+		{
+			"artwork": "https://i.imgur.com/8H7M1yT.png",
+			"fr": "Nidoking",
+			"en": "Nidoking"
+		},
+		{
+			"artwork": "https://i.imgur.com/nJzz7RL.png",
+			"fr": "Mélofée",
+			"en": "Clefairy"
+		},
+		{
+			"artwork": "https://i.imgur.com/am68vg6.png",
+			"fr": "Mélodelfe",
+			"en": "Clefable"
+		},
+		{
+			"artwork": "https://i.imgur.com/YHpUkKG.png",
+			"fr": "Goupix",
+			"en": "Vulpix"
+		},
+		{
+			"artwork": "https://i.imgur.com/SPve4To.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Vulpix"
+		},
+		{
+			"artwork": "https://i.imgur.com/uKkaLbA.png",
+			"fr": "Feunard",
+			"en": "Ninetales"
+		},
+		{
+			"artwork": "https://i.imgur.com/8gLyqWm.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Ninetales"
+		},
+		{
+			"artwork": "https://i.imgur.com/zR7MaJ4.png",
+			"fr": "Rondoudou",
+			"en": "Jigglypuff"
+		},
+		{
+			"artwork": "https://i.imgur.com/78Afroa.png",
+			"fr": "Grodoudou",
+			"en": "Wigglytuff"
+		},
+		{
+			"artwork": "https://i.imgur.com/2SFHYiE.png",
+			"fr": "Nosferapti",
+			"en": "Zubat"
+		},
+		{
+			"artwork": "https://i.imgur.com/MqmUTQ0.png",
+			"fr": "Nosferalto",
+			"en": "Golbat"
+		},
+		{
+			"artwork": "https://i.imgur.com/AplkaXl.png",
+			"fr": "Mystherbe",
+			"en": "Oddish"
+		},
+		{
+			"artwork": "https://i.imgur.com/VKVReaH.png",
+			"fr": "Ortide",
+			"en": "Gloom"
+		},
+		{
+			"artwork": "https://i.imgur.com/IKKpWre.png",
+			"fr": "Rafflesia",
+			"en": "Vileplume"
+		},
+		{
+			"artwork": "https://i.imgur.com/acABxwZ.png",
+			"fr": "Paras",
+			"en": "Paras"
+		},
+		{
+			"artwork": "https://i.imgur.com/mLlHCs3.png",
+			"fr": "Parasect",
+			"en": "Parasect"
+		},
+		{
+			"artwork": "https://i.imgur.com/jAXbo2i.png",
+			"fr": "Mimitoss",
+			"en": "Venonat"
+		},
+		{
+			"artwork": "https://i.imgur.com/YyJoPv5.png",
+			"fr": "Aéromite",
+			"en": "Venomoth"
+		},
+		{
+			"artwork": "https://i.imgur.com/YkXkyQZ.png",
+			"fr": "Taupiqueur",
+			"en": "Diglett"
+		},
+		{
+			"artwork": "https://i.imgur.com/Bc7tiIL.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Diglett"
+		},
+	}
 }
