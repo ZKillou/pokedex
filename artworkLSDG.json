@@ -1,5 +1,5 @@
 {
-	"artwork": {
+	"artwork": [
 		{
 			"artwork": "https://i.imgur.com/xSpdWqw.png",
 			"fr": "Bulbizarre",
@@ -321,6 +321,6 @@
 			"artwork": "https://i.imgur.com/Bc7tiIL.png",
 			"fr": ":x: Indisponible",
 			"en": "Alolan Diglett"
-		},
-	}
+		}
+	]
 }
