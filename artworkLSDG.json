@@ -326,6 +326,381 @@
 			"artwork": "https://i.imgur.com/Bc7tiIL.png",
 			"fr": ":x: Indisponible",
 			"en": "Alolan Diglett"
-		}
+		},
+                {
+			"artwork": "https://i.imgur.com/hesvNkw.png",
+			"fr": "Triopikeur",
+			"en": "Dugtrio"
+		},
+		{
+			"artwork": "https://i.imgur.com/t2QMb0Y.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Dugtrio"
+		},
+		{
+			"artwork": "https://i.imgur.com/pDNu91m.png",
+			"fr": "Miaouss",
+			"en": "Meowth"
+		},
+		{
+			"artwork": "https://i.imgur.com/btLvjQE.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Meowth"
+		},
+		{
+			"https://i.imgur.com/ufIdlpA.png",
+			"fr": ":x: Indisponible",
+			"en": "Galarian Meowth"
+		},
+		{
+			"artwork": "https://i.imgur.com/vdusrRM.png",
+			"fr": "Persian",
+			"en": "Persian"
+		},
+		{
+			"artwork": "https://i.imgur.com/LbxSQYM.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Persian"
+		},
+		{
+			"artwork": "https://i.imgur.com/YSrDCBO.png",
+			"fr": "Psykokwak",
+			"en": "Psyduck"
+		},
+		{
+			"artwork": "https://i.imgur.com/tLdNn2u.png",
+			"fr": "Akwakwak",
+			"en": "Golduck"
+		},
+		{
+			"artwork": "https://i.imgur.com/BLKDfvs.png",
+			"fr": "Férosinge",
+			"en": "Mankey"
+		},
+		{
+			"artwork": "https://i.imgur.com/ykdaaSB.png",
+			"fr": "Colossinge",
+			"en": "Primeape"
+		},
+		{
+			"artwork": "https://i.imgur.com/SUqnSP4.png",
+			"fr": "Caninos",
+			"en": "Growlithe"
+		},
+		{
+			"artwork": "https://i.imgur.com/gamez3k.png",
+			"fr": "Arcanin",
+			"en": "Arcanine"
+		},
+		{
+			"artwork": "https://i.imgur.com/xRi3Uyi.png",
+			"fr": "Ptitard",
+			"en": "Poliwag"
+		},
+		{
+			"artwork": "https://i.imgur.com/Fwr2eYS.png",
+			"fr": "Têtarte",
+			"en": "Poliwhirl"
+		},
+		{
+			"artwork": "https://i.imgur.com/6Vua3sW.png",
+			"fr": "Tartard",
+			"en": "Poliwrath"
+		},
+		{
+			"artwork": "https://i.imgur.com/aSS33g2.png",
+			"fr": "Abra",
+			"en": "Abra"
+		},
+		{
+			"artwork": "https://i.imgur.com/lhGm3IL.png",
+			"fr": "Kadabra",
+			"en": "Kadabra"
+		},
+		{
+			"artwork": "https://i.imgur.com/LNjhyC0.png",
+			"fr": "Alakazam",
+			"en": "Alakazam"
+		},
+		{
+			"artwork": "https://i.imgur.com/r7SMVaj.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Alakazam"
+		},
+		{
+			"artwork": "https://i.imgur.com/tsmOleX.png",
+			"fr": "Machoc",
+			"en": "Machop"
+		},
+		{
+			"artwork": "https://i.imgur.com/Q3htN1j.png",
+			"fr": "Machopeur",
+			"en": "Machoke"
+		},
+		{
+			"artwork": "https://i.imgur.com/aoRVUOq.png",
+			"fr": "Mackogneur",
+			"en": "Machamp"
+		},
+		{
+			"artwork": "https://i.imgur.com/np6YaVg.png",
+			"fr": "Chétiflor",
+			"en": "Bellsprout"
+		},
+		{
+			"artwork": "https://i.imgur.com/daeSpQW.png",
+			"fr": "Boustiflor",
+			"en": "Weepinbell"
+		},
+		{
+			"artwork": "https://i.imgur.com/t7QPLUQ.png",
+			"fr": "Empiflor",
+			"en": "Victreebel"
+		},
+		{
+			"artwork": "https://i.imgur.com/kICpRY8.png",
+			"fr": "Tentacool",
+			"en": "Tentacool"
+		},
+		{
+			"artwork": "https://i.imgur.com/KKWNkHQ.png",
+			"fr": "Tentacruel",
+			"en": "Tentacruel"
+		},
+		{
+			"artwork": "https://i.imgur.com/8nVHGSO.png",
+			"fr": "Racaillou",
+			"en": "Geodude"
+		},
+		{
+			"artwork": "https://i.imgur.com/rh2uEhE.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Geodude"
+		},
+		{
+			"artwork": "https://i.imgur.com/yt8WPIy.png",
+			"fr": "Gravalanch",
+			"en": "Graveler"
+		},
+		{
+			"artwork": "https://i.imgur.com/UG8pXCq.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Graveler"
+		},
+		{
+			"artwork": "https://i.imgur.com/6BC3hkD.png",
+			"fr": "Grolem",
+			"en": "Golem"
+		},
+		{
+			"artwork": "https://i.imgur.com/h754iPK.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Golem"
+		},
+		{
+			"artwork": "https://i.imgur.com/nOYryC3.png",
+			"fr": "Ponyta",
+			"en": "Ponyta"
+		},
+		{
+			"artwork": "https://i.imgur.com/3R8N1FX.png",
+			"fr": "Galopa",
+			"en": "Rapidash"
+		},
+		{
+			"artwork": "https://i.imgur.com/i290m6J.png",
+			"fr": "Ramoloss",
+			"en": "Slowpoke"
+		},
+		{
+			"artwork": "https://i.imgur.com/LF5kDxm.png",
+			"fr": "Flagadoss",
+			"en": "Slowbro"
+		},
+		{
+			"artwork": "https://i.imgur.com/eJCKb2r.png",
+			"fr": "Magnéti",
+			"en": "Magnemite"
+		},
+		{
+			"artwork": "https://i.imgur.com/0D6xRq7.png",
+			"fr": "Magnéton",
+			"en": "Magneton"
+		},
+		{
+			"artwork": "https://i.imgur.com/zCaeMx7.png",
+			"fr": "Canarticho",
+			"en": "Farfetch'd"
+		},
+		{
+			"artwork": "https://i.imgur.com/4nh3Dfm.png",
+			"fr": ":x: Indisponible",
+			"en": "Galarian Farfetch'd"
+		},
+		{
+			"artwork": "https://i.imgur.com/RbIvmTP.png",
+			"fr": "Doduo",
+			"en": "Doduo"
+		},
+		{
+			"artwork": "https://i.imgur.com/DqpH2rA.png",
+			"fr": "Dodrio",
+			"en": "Dodrio"
+		},
+		{
+			"artwork": "https://i.imgur.com/759tope.png",
+			"fr": "Otaria",
+			"en": "Seel"
+		},
+		{
+			"artwork": "https://i.imgur.com/X6gf4VN.png",
+			"fr": "Lamantine",
+			"en": "Dewgong"
+		},
+		{
+			"artwork": "https://i.imgur.com/UCxeNmz.png",
+			"fr": "Tadmorv",
+			"en": "Grimer"
+		},
+		{
+			"artwork": "https://i.imgur.com/ReIr37Y.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Grimer"
+		},
+		{
+			"artwork": "https://i.imgur.com/a9PiXTK.png",
+			"fr": "Grotadmorv",
+			"en": "Muk"
+		},
+		{
+			"artwork": "https://i.imgur.com/YsRE5Ft.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Muk"
+		},
+		{
+			"artwork": "https://i.imgur.com/Q9p6eps.png",
+			"fr": "Kokiyas",
+			"en": "Shellder"
+		},
+		{
+			"artwork": "https://i.imgur.com/GQiQpn4.png",
+			"fr": "Crustabri",
+			"en": "Cloyster"
+		},
+		{
+			"artwork": "https://i.imgur.com/BOFc4Fn.png",
+			"fr": "Fantominus",
+			"en": "Gastly"
+		},
+		{
+			"artwork": "https://i.imgur.com/66EmU4u.png",
+			"fr": "Spectrum",
+			"en": "Haunter"
+		},
+		{
+			"artwork": "https://i.imgur.com/jKXYP5T.png",
+			"fr": "Ectoplasma",
+			"en": "Gengar"
+		},
+		{
+			"artwork": "https://i.imgur.com/BR4QCaJ.png",
+			"fr": ":x: Indisponible",
+			"en": "Mega Gengar"
+		},
+		{
+			"artwork": "https://i.imgur.com/oK3cFPf.png",
+			"fr": "Onix",
+			"en": "Onix"
+		},
+		{
+			"artwork": "https://i.imgur.com/D7A70cC.png",
+			"fr": "Soporifik",
+			"en": "Drowzee"
+		},
+		{
+			"artwork": "https://i.imgur.com/OobmhJ1.png",
+			"fr": "Hypnomade",
+			"en": "Hypno"
+		},
+		{
+			"artwork": "https://i.imgur.com/owemftz.png",
+			"fr": "Krabby",
+			"en": "Krabby"
+		},
+		{
+			"artwork": "https://i.imgur.com/KnrTZ2G.png",
+			"fr": "Krabboss",
+			"en": "Kingler"
+		},
+		{
+			"artwork": "https://i.imgur.com/e8iAlND.png",
+			"fr": "Voltorbe",
+			"en": "Voltorb"
+		},
+		{
+			"artwork": "https://i.imgur.com/TTp1Ize.png",
+			"fr": "Électrode",
+			"en": "Electrode"
+		},
+		{
+			"artwork": "https://i.imgur.com/2RgJO0e.png",
+			"fr": "Noeunoeuf",
+			"en": "Exeggcute"
+		},
+		{
+			"artwork": "https://i.imgur.com/l8oGfSd.png",
+			"fr": "Noadkoko",
+			"en": "Exeggutor"
+		},
+		{
+			"artwork": "https://i.imgur.com/7oxsERc.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Exeggutor"
+		},
+		{
+			"artwork": "https://i.imgur.com/sdBsyPW.png",
+			"fr": "Osselait",
+			"en": "Cubone"
+		},
+		{
+			"artwork": "https://i.imgur.com/s1JYKx1.png",
+			"fr": "Ossatueur",
+			"en": "Marowak"
+		},
+		{
+			"artwork": "https://i.imgur.com/imvMWaL.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Marowak"
+		},
+		{
+			"artwork": "https://i.imgur.com/j85UpcI.png",
+			"fr": "Kicklee",
+			"en": "Hitmonlee"
+		},
+		{
+			"artwork": "https://i.imgur.com/32RIckj.png",
+			"fr": "Tygnon",
+			"en": "Hitmonchan"
+		},
+		{
+			"artwork": "https://i.imgur.com/m25LXG8.png",
+			"fr": "Excelangue",
+			"en": "Lickitung"
+		},
+		{
+			"artwork": "https://i.imgur.com/UahAc0W.png",
+			"fr": "Smogo",
+			"en": "Koffing"
+		},
+		{
+			"artwork": "https://i.imgur.com/G5egkkk.png",
+			"fr": "Smogogo",
+			"en": "Weezing"
+		},
+		{
+			"artwork": "https://i.imgur.com/kpSzZra.png",
+			"fr": ":x: Indisponible",
+			"en": "Galarian Weezing"
+		},
 	]
 }
