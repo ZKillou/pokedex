@@ -502,10 +502,20 @@
 			"fr": "Ponyta",
 			"en": "Ponyta"
 		},
+                {
+			"artwork": "https://i.imgur.com/eJBPGUs.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Ponyta"
+		},
 		{
 			"artwork": "https://i.imgur.com/3R8N1FX.png",
 			"fr": "Galopa",
 			"en": "Rapidash"
+		},
+                {
+			"artwork": "https://i.imgur.com/zpQwRve.png",
+			"fr": ":x: Indisponible",
+			"en": "Alolan Rapidash"
 		},
 		{
 			"artwork": "https://i.imgur.com/i290m6J.png",
